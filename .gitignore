@@ -2,7 +2,6 @@
 .cproject
 .project
 .settings/
-lib/
 
 # Compiled Object files
 *.slo
